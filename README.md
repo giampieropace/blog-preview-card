@@ -25,7 +25,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-using-bootstrap-studio-hPuOl86pEC)
 - Live Site URL: [CloudFlare Pages](https://blog-preview-card-bl1.pages.dev/)
 
 ## My process
@@ -38,5 +38,3 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Bootstrap](https://getbootstrap.com/) - CSS Framework
 - [Bootstrap Studio](https://bootstrapstudio.io/) - Cross-Platform Design Software
 - [GIMP](https://www.gimp.org/) - Free & Open Source Image Editor
-
-
